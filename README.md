@@ -86,6 +86,3 @@ Screenshots included in `/screenshots` folder:
 This project demonstrates how SDN enables **programmable and dynamic network security**. The controller can monitor traffic and enforce policies in real-time by installing flow rules, without requiring changes in the underlying hardware.
 
 ---
-
-
----
